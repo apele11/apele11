@@ -5,7 +5,7 @@
   <tr>
   </tr>
   <tr>
-   <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apele11&theme=default" width=420></td>
+   <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=apele11&theme=default" width="420"></td>
   </tr>
 </table>
 <div align="left">
