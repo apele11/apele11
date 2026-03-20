@@ -24,7 +24,7 @@ Feel free to reach out: emilyapel@ufl.edu
     <img src="https://skillicons.dev/icons?i=python,cpp,bash,flask"/>
     <img src="https://skillicons.dev/icons?i=git,vscode"/>
     <img src="https://skillicons.dev/icons?i=figma,pycharm,clion"/>
-    <img src="https://skillicons.dev/icons?i=docker,postgresql,vite,ubuntu"/>
+    <img src="https://skillicons.dev/icons?i=docker,postgresql,vite,firebase,ubuntu"/>
     <img src="https://skillicons.dev/icons?i=notion,ae,ai,blender,unity"/>
   </a>
 </p>
